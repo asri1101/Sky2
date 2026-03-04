@@ -8,16 +8,13 @@ We operate at the intersection of robotics, computer vision, embedded systems, a
 
 ## Focus
 
-Autonomous Navigation Systems  
-Robust perception and decision-making in dynamic, real-world environments.
-
-Vision-Language-Action Integration (VLA)
+Vision-Language-Action Integration (VLA)  
 Multimodal models that bridge perception, instruction understanding, and physical execution.
 
-Hardware-Software Co-Design
+Hardware-Software Co-Design  
 Tight integration between onboard compute, sensing systems, and control architectures.
 
-Rapid Iteration & Field Testing
+Rapid Iteration & Field Testing  
 Agile prototyping cycles to validate performance in operational environments.
 
 ## Mission
