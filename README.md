@@ -8,7 +8,7 @@ We operate at the intersection of robotics, computer vision, embedded systems, a
 
 ## Focus
 
-Autonomous Navigation Systems
+Autonomous Navigation Systems  
 Robust perception and decision-making in dynamic, real-world environments.
 
 Vision-Language-Action Integration (VLA)
