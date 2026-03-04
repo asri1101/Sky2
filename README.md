@@ -19,7 +19,7 @@ Agile prototyping cycles to validate performance in operational environments.
 
 ## Mission
 
-To accelerate the development of safe, intelligent, and scalable autonomous drone systems capable of transforming last-mile delivery through advanced AI-driven autonomy.
+To be the first and the best to get cool shit done: build an autonomous VLA-based drone that delivers any package with state-of-art grabbing mechanism anywhere. (not Chatted)
 
 ## Institutional Affiliation
 
