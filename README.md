@@ -25,3 +25,5 @@ To accelerate the development of safe, intelligent, and scalable autonomous dron
 
 Sky2 operates within the broader SkyRunners initiative at Stanford University, contributing to interdisciplinary research spanning artificial intelligence, robotics, and real-world deployment systems.
 
+(Obviously ChatGPT'd, but the mission still stands)
+
