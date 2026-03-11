@@ -77,7 +77,7 @@ def receive():
         
         # PID Constants (These require manual tuning)
         # Pitch/Roll usually share gains; Yaw is usually different
-        Kp, Ki, Kd = 1.2, 0.01, 0.05
+        Kp, Ki, Kd = 1.0, 0.01, 0.05
         Kp_y, Ki_y, Kd_y = 2.0, 0.01, 0.1
         global angle_pitch, angle_roll, angle_yaw
 
