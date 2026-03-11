@@ -1,5 +1,8 @@
-# Sky2 Team
-Rapid Prototyping Division — SkyRunners
+# Sky2 Team - Rapid Prototyping Division
+
+Bekhruz Malikov, Nathan Zhao, Jonah Nazarian, Anirudh Srikrishna, Honglong Chen, James Chubbuck, Kavin Shrimali, Jason Alonso
+
+SkyRunners
 Overview
 
 The Sky2 Team serves as the rapid prototyping division of SkyRunners, focused on advancing next-generation autonomous aerial systems. Our mission is to design, build, and deploy state-of-the-art drone hardware and intelligent software infrastructure to enable scalable, vision-language-action (VLA)–based food delivery services.
