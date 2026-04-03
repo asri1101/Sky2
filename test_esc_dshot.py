@@ -26,14 +26,20 @@ def dshot():
     set(x, 15).side(0)
     label("bitloop")
     out(y,1)
+    # continue code LATER PLEASE 
         
    
 # helpers for making the packets of bits for throttle 
 def make_packet(throttle, telemetry=False):
-    packet = (throttle << 1) | (1 if telemetry else 0)
-    break
+    packet = (throttle << 1) | (1 if telemetry else 0) # shift left by 1 to make space for telemetry flag bit
+    crc = (packet ^ (packet << 4) ^ (packet << 8)) & 0x0F # unique fingerprint 
+    return (packet << 4) | crc # make room for crc bits 
+    
 
-# use the packet of bits and read them using an FSM 
+# use the packet of bits and read them using an FSM
+
+
+
 
 #####################################
 ####    REFERENCES (PIO)          ###
